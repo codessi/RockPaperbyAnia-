@@ -7,7 +7,7 @@ const computerChoice = document.getElementById("computer-choice");
 
 const userChoice = document.getElementById("user-choice");
 const possibleChoices = document.querySelectorAll("body");
-
+// test
 
 
 //get userChosen
